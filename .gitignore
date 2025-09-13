@@ -1,13 +1,5 @@
-# Node.js dependencies
 node_modules/
-
-# Mac system files
+logs/*
+!logs/.gitkeep
 .DS_Store
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Environment files
 .env
